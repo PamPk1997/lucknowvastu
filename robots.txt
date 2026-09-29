@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /404
+
+Sitemap: https://vastu-3d-interactive.preview.emergentagent.com/sitemap.xml
